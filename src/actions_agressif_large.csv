@@ -1,0 +1,17 @@
+hand_value,action,value
+0.3,Fold,0.17
+0.3,Check,0.45
+0.3,Call,0.18
+0.3,Raise,0.20
+0.6,Fold,0.14
+0.6,Check,0.32
+0.6,Call,0.26
+0.6,Raise,0.28
+0.8,Fold,0.08
+0.8,Check,0.13
+0.8,Call,0.22
+0.8,Raise,0.57
+1,Fold,0.02
+1,Check,0.04
+1,Call,0.10
+1,Raise,0.84

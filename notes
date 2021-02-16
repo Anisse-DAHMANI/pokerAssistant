@@ -1,0 +1,20 @@
+Alors 
+La probabilité de gagné c'est la probabilité d'avoir une meilleure main que l'adversaire
+
+Si on a une paire de neufs par exemple
+Perdre, on a la somme des probabilités de :
+	brelan
+	full
+	ect
+	tout au dessus de Paire
+	+
+	la somme des probabilités des Paires au dessus 
+	
+Null, on la probabilité d'avoir une paire de neuf avec les cartes restantes 
+
+Probabilité de gagner, somme des probabilités de :
+	carte haute
+	+
+	la somme des probabilités de paires en dessous 
+	
+Super long car il faut calculer les probabilités de tout a chaque fois 
